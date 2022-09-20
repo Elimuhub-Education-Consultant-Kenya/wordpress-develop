@@ -101,7 +101,7 @@
 		"@wordpress/edit-widgets": "4.3.14",
 		"@wordpress/editor": "12.5.10",
 		"@wordpress/element": "4.4.1",
-		"@wordpress/escape-html": "2.6.1",
+		"@wordpress/escape-html": "2.16.0",
 		"@wordpress/format-library": "3.4.10",
 		"@wordpress/hooks": "3.6.1",
 		"@wordpress/html-entities": "3.6.1",
