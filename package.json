@@ -103,7 +103,7 @@
 		"@wordpress/element": "4.4.1",
 		"@wordpress/escape-html": "2.6.1",
 		"@wordpress/format-library": "3.4.10",
-		"@wordpress/hooks": "3.6.1",
+		"@wordpress/hooks": "3.16.0",
 		"@wordpress/html-entities": "3.6.1",
 		"@wordpress/i18n": "4.6.1",
 		"@wordpress/icons": "8.2.3",
