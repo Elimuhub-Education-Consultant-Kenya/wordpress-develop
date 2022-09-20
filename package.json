@@ -95,7 +95,7 @@
 		"@wordpress/date": "4.6.1",
 		"@wordpress/deprecated": "3.6.1",
 		"@wordpress/dom": "3.6.1",
-		"@wordpress/dom-ready": "3.6.1",
+		"@wordpress/dom-ready": "3.16.0",
 		"@wordpress/edit-post": "6.3.14",
 		"@wordpress/edit-site": "4.3.14",
 		"@wordpress/edit-widgets": "4.3.14",
