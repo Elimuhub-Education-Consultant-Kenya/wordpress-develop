@@ -93,7 +93,7 @@
 		"@wordpress/data": "6.6.1",
 		"@wordpress/data-controls": "2.6.1",
 		"@wordpress/date": "4.6.1",
-		"@wordpress/deprecated": "3.6.1",
+		"@wordpress/deprecated": "3.16.0",
 		"@wordpress/dom": "3.6.1",
 		"@wordpress/dom-ready": "3.6.1",
 		"@wordpress/edit-post": "6.3.14",
